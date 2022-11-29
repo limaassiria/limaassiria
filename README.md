@@ -12,9 +12,9 @@
 
 <h2> :open_file_folder: Projects:</h2>
 
- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=limaassiria&repo=limaassiria.github.io)
- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=limaassiria&repo=portfoliorocket.github.io)
- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=limaassiria&repo=socialtreerocket.github.io)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=limaassiria&repo=limaassiria.github.io&title_color=DD6387&icon_color=DD6387&text_color=9f9f9f&bg_color=282A36)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=limaassiria&repo=portfoliorocket.github.io&title_color=DD6387&icon_color=DD6387&text_color=9f9f9f&bg_color=282A36)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=limaassiria&repo=socialtreerocket.github.io&title_color=DD6387&icon_color=DD6387&text_color=9f9f9f&bg_color=282A36)
  
 <h2> :octocat: Github Status:</h2>
 
