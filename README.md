@@ -1,7 +1,7 @@
 <h1> 👋 Olá, me chamo Assiria Lima </h1>
 
 <h2> :bust_in_silhouette: Bio: </h2>
-<p>Sou advogada por formação e apaixonada por tecnologia e arte. Decidi me aprofundar mais em design e percebi que era possível unir ambas as paixões em uma só. Por isso, decidi estudar e me aprofundar no desenvolvimento front-end. Sou iniciante, mas em busca de conhecimento e oportunidades para meu crescimento profissional.</p>
+<p>Sou advogada por formação e apaixonada por tecnologia e arte. Decidi aprender mais sobre design e percebi que era possível unir ambas as paixões em uma só, por meio do desenvolvimento front-end. Sou iniciante, mas em busca de conhecimento e oportunidades para meu crescimento profissional.</p>
 
 <h2> :bulb: Skills:</h2>
 <div>
